@@ -1,7 +1,7 @@
 # Maze-Generator-V2
 Generate an image file that contains a randomly generated maze
 
-![Maze](image.png)
+<img src="image.png" alt="Maze" width="200"/>
 
 Change the size of each pixel at line 76
 
